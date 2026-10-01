@@ -268,4 +268,4 @@ This repository serves as the official landing page for **Madden NFL**. The soft
 **Get the most recent version of Madden NFL today!** | Updated 2024
 
 ---
-**Last updated:** 2026-09-30 20:42:43 UTC
+**Last updated:** 2026-10-01 00:27:28 UTC
